@@ -1,4 +1,4 @@
-package main
+package sandbox
 
 import "fmt"
 import "github.com/myworld225/go/hangul"
